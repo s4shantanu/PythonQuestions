@@ -2,7 +2,7 @@
 Important interview question.
 
 1. [Fibonacci series](https://github.com/s4shantanu/PythonQuestions/blob/main/Fibonacci_series.py)
-2. Checking for prime number.
+2. [Checking for prime number](https://github.com/s4shantanu/PythonQuestions/blob/main/Prime_number.py)
 3. String Palindrome.
 4. Integer Palindrome.
 5. Armstrong Number.
